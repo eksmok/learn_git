@@ -12,4 +12,10 @@ class Feature1:
     def method1912(self):
         pass
 
-    def
+    class Feature2:
+        def __init__(self):
+            pass
+
+        def method2(self):
+            print('Que faire ?')
+            pass 
